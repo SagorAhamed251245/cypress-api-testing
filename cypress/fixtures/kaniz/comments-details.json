@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "67960f16a1c65d001940ba19",
+    "contentId": "67960b8aa1c65d001940b9e9",
+    "comment": "This is a test comment in the community.",
+    "user": {
+      "profilePicture": "",
+      "lastName": "ahamed",
+      "_id": "679539f8d8159d00196f2781",
+      "firstName": "sagor",
+      "fullName": "sagor ahamed"
+    },
+    "createdAt": "2025-01-26T10:31:50.752Z",
+    "updatedAt": "2025-01-26T10:31:53.420Z",
+    "__v": 0,
+    "repliesCount": 1
+  }
+]
